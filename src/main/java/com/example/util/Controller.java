@@ -1,4 +1,4 @@
-package com.example.util.app;
+package com.example.util;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
