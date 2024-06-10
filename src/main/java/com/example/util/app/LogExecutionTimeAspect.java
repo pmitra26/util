@@ -1,4 +1,4 @@
-package com.example.util;
+package com.example.util.app;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class LogExecutionTimeAspect {
 
-    @Around("@annotation(com.example.util.LogExecutionTime)")
+    @Around("@annotation(com.example.util.app.LogExecutionTime)")
     public Object logExecutionTime(ProceedingJoinPoint joinPoint) throws Throwable {
         final long start = System.currentTimeMillis();
 
