@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.projectoth</groupId>
 	<artifactId>util</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<name>util</name>
 	<description>Demo project for util</description>
 	<packaging>jar</packaging>
