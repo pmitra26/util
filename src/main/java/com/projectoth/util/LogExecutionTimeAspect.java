@@ -1,4 +1,4 @@
-package com.example.util;
+package com.projectoth.util;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

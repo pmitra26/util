@@ -1,4 +1,4 @@
-package com.example.util;
+package com.projectoth.util;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
