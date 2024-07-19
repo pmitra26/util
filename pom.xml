@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.projectoth</groupId>
 	<artifactId>util</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>util</name>
 	<description>Demo project for util</description>
 	<packaging>jar</packaging>
